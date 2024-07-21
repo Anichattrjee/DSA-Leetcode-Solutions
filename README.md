@@ -26,6 +26,7 @@ Here are all the solutions of the problems I solved in leetcode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -38,4 +39,8 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
