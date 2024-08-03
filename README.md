@@ -7,6 +7,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,4 +55,13 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
