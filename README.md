@@ -9,6 +9,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -64,6 +66,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0424-longest-repeating-character-replacement](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -74,4 +77,8 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
