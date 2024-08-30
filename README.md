@@ -81,4 +81,8 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
