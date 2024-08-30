@@ -85,4 +85,5 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
