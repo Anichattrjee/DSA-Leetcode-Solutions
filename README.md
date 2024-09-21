@@ -55,6 +55,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -91,4 +92,8 @@ Here are all the solutions of the problems I solved in leetcode
 | [1258-article-views-i](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1827-invalid-tweets) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
