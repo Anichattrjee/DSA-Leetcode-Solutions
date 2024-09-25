@@ -49,6 +49,7 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
