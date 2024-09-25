@@ -48,6 +48,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -58,6 +59,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -85,6 +87,7 @@ Here are all the solutions of the problems I solved in leetcode
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Database
 |  |
