@@ -54,6 +54,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0424-longest-repeating-character-replacement](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
@@ -107,4 +108,8 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0443-string-compression) |
+## Counting
+|  |
+| ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
