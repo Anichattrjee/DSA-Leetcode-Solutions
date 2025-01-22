@@ -7,6 +7,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -123,4 +124,8 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
