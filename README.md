@@ -7,6 +7,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -23,6 +24,7 @@ Here are all the solutions of the problems I solved in leetcode
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Heap (Priority Queue)
@@ -119,6 +121,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0443-string-compression) |
