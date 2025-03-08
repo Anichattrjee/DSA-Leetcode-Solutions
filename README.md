@@ -19,6 +19,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0981-delete-columns-to-make-sorted](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0283-move-zeroes](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0443-string-compression) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
 | ------- |
@@ -146,4 +148,8 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
