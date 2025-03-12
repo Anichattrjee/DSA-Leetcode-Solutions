@@ -21,6 +21,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1046-max-consecutive-ones-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0169-majority-element](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
