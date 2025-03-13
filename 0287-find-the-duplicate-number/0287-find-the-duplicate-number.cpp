@@ -3,19 +3,17 @@ public:
     int findDuplicate(vector<int>& nums) {
         int n=nums.size();
         int ans=-1;
-        vector<int>hash(n,0);
-
+        vector<int>visited(n,0);
         for(int i=0;i<n;i++)
         {
-            hash[nums[i]]++;
-        }
-
-        for(int i=0;i<n;i++)
-        {
-            if(hash[i]>1)
+            if(visited[nums[i]]==1)
             {
-                ans=i;
+                ans=nums[i];
                 return ans;
+            }
+            else
+            {
+                visited[nums[i]]=1;
             }
         }
         return ans;
