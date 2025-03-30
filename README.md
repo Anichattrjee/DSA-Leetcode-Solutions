@@ -79,6 +79,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0038-count-and-say](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0768-partition-labels](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -92,6 +93,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0138-copy-list-with-random-pointer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0768-partition-labels](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -147,6 +149,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0283-move-zeroes](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0768-partition-labels](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
@@ -176,6 +179,7 @@ Here are all the solutions of the problems I solved in leetcode
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
