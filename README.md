@@ -23,6 +23,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2681-put-marbles-in-bags](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
@@ -40,6 +41,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2681-put-marbles-in-bags](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
@@ -47,6 +49,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2681-put-marbles-in-bags](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 ## Quickselect
 |  |
 | ------- |
@@ -180,6 +183,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
