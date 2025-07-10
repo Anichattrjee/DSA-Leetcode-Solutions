@@ -88,6 +88,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1777-determine-if-two-strings-are-close](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3905-partition-string](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3905-partition-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1777-determine-if-two-strings-are-close](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3905-partition-string](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3905-partition-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3905-partition-string](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3905-partition-string) |
 ## Matrix
 |  |
 | ------- |
@@ -199,4 +202,8 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0231-power-of-two) |
+## Trie
+|  |
+| ------- |
+| [3905-partition-string](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3905-partition-string) |
 <!---LeetCode Topics End-->
