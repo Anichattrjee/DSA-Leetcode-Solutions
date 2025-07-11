@@ -22,6 +22,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2479-meeting-rooms-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2681-put-marbles-in-bags](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -41,6 +42,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2479-meeting-rooms-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -49,6 +51,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2479-meeting-rooms-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 ## Quickselect
 |  |
@@ -103,6 +106,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2479-meeting-rooms-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3905-partition-string](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3905-partition-string) |
 ## Sliding Window
@@ -179,6 +183,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2479-meeting-rooms-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [3905-partition-string](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3905-partition-string) |
 ## Matrix
 |  |
