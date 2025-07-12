@@ -179,6 +179,7 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Simulation
 |  |
 | ------- |
@@ -211,4 +212,8 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [3905-partition-string](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3905-partition-string) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
