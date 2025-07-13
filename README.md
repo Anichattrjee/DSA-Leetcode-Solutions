@@ -23,6 +23,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2681-put-marbles-in-bags](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -43,6 +44,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1777-determine-if-two-strings-are-close](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2479-meeting-rooms-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -161,6 +163,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0443-string-compression](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Counting
 |  |
 | ------- |
@@ -194,6 +197,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
