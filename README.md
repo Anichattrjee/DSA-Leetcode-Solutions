@@ -177,6 +177,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0136-single-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
 |  |
 | ------- |
