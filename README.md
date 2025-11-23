@@ -15,6 +15,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0485-max-consecutive-ones](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
@@ -85,6 +86,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0012-integer-to-roman](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0768-partition-labels) |
@@ -178,6 +180,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0136-single-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
