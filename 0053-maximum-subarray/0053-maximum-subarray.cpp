@@ -2,22 +2,17 @@ class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
         int n=nums.size();
-        //apllying kadane's algorithm to find maximum subarray sum
         int sum=0;
-        int max=INT_MIN;
-        for(int i=0;i<n;i++)
-        {
-            sum+=nums[i];
-            if(sum>max)
-            {
-                max=sum;
-            }
+        int maxSum=INT_MIN;//to cover the negative sums also
 
-            if(sum<0)
-            {
-                sum=0;
-            }
+        for(int x:nums)
+        {
+            //add the no to the sum
+            // if sum<0 then reintialize the sum to 0
+            sum=max(x, sum+x);
+            maxSum=max(maxSum,sum);
         }
-        return max;
+        return maxSum;
+        
     }
 };
