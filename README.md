@@ -66,6 +66,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -160,6 +161,7 @@ Here are all the solutions of the problems I solved in leetcode
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Two Pointers
 |  |
@@ -237,6 +239,7 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -248,9 +251,11 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
