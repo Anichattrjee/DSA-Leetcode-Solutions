@@ -9,6 +9,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -101,6 +103,7 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -231,6 +234,7 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -239,4 +243,5 @@ Here are all the solutions of the problems I solved in leetcode
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
