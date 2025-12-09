@@ -31,6 +31,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
+| [3583-count-special-triplets](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3583-count-special-triplets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2479-meeting-rooms-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3583-count-special-triplets](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3583-count-special-triplets) |
 | [3905-partition-string](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3905-partition-string) |
 ## Sliding Window
 |  |
@@ -181,6 +183,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1777-determine-if-two-strings-are-close](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3583-count-special-triplets](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3583-count-special-triplets) |
 ## Bit Manipulation
 |  |
 | ------- |
