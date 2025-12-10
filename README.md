@@ -20,6 +20,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0485-max-consecutive-ones](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -72,6 +73,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0155-min-stack](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Design
 |  |
@@ -221,6 +223,7 @@ Here are all the solutions of the problems I solved in leetcode
 ## Monotonic Stack
 |  |
 | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
@@ -250,6 +253,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -266,6 +270,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -289,4 +294,5 @@ Here are all the solutions of the problems I solved in leetcode
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
