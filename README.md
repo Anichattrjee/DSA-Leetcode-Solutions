@@ -31,6 +31,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3583-count-special-triplets) |
 ## Divide and Conquer
 |  |
@@ -150,6 +151,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Database
 |  |
 | ------- |
@@ -261,4 +263,12 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
