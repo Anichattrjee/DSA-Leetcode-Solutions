@@ -247,6 +247,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -262,6 +263,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -270,6 +272,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0098-validate-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Brainteaser
 |  |
@@ -284,5 +287,6 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
