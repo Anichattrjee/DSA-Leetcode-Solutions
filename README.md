@@ -70,6 +70,7 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -251,6 +252,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -269,6 +271,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -280,6 +283,7 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
