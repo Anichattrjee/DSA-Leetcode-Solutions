@@ -35,6 +35,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [3433-count-mentions-per-user](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
+| [3606-coupon-code-validator](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1777-determine-if-two-strings-are-close](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3606-coupon-code-validator](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3905-partition-string](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3905-partition-string) |
 ## Hash Table
 |  |
@@ -130,6 +133,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [2479-meeting-rooms-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3583-count-special-triplets](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3905-partition-string](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3905-partition-string) |
 ## Sliding Window
 |  |
