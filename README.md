@@ -23,6 +23,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
@@ -162,6 +163,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0231-power-of-two](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3433-count-mentions-per-user](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/3433-count-mentions-per-user) |
@@ -215,6 +217,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0053-maximum-subarray](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Simulation
 |  |
 | ------- |
