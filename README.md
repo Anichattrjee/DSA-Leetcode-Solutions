@@ -285,6 +285,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0623-add-one-row-to-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -326,6 +327,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0623-add-one-row-to-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -348,6 +350,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0543-diameter-of-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0814-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Brainteaser
 |  |
