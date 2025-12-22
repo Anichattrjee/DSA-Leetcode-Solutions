@@ -282,6 +282,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0652-find-duplicate-subtrees) |
@@ -302,6 +303,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0112-path-sum](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -326,6 +328,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0652-find-duplicate-subtrees) |
@@ -352,6 +355,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0652-find-duplicate-subtrees) |
