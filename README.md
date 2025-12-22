@@ -219,6 +219,7 @@ Here are all the solutions of the problems I solved in leetcode
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Simulation
@@ -294,6 +295,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -342,6 +344,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -367,6 +370,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
