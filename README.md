@@ -222,6 +222,7 @@ Here are all the solutions of the problems I solved in leetcode
 | [0053-maximum-subarray](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anichattrjee/DSA-Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Simulation
